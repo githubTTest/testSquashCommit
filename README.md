@@ -1,6 +1,6 @@
 # testSquashCommit
 test squash commit
-add line 1
+create a conflict
 add line 2
 line 3
 line 4
